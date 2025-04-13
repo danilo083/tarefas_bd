@@ -1,8 +1,4 @@
-FROM postgres:15
+FROM mongo:6
 
-ENV POSTGRES_DB=tarefas
-ENV POSTGRES_USER=admin
-ENV POSTGRES_PASSWORD=admin
-
-COPY init.sql /docker-entrypoint-initdb.d/
-
+ENV MONGO_INITDB_ROOT_USERNAME=admin
+ENV MONGO_INITDB_ROOT_PASSWORD=admin
