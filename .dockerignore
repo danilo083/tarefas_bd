@@ -1,2 +1,4 @@
-*.sql~
+node_modules
+*.log
+
 
