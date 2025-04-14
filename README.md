@@ -18,5 +18,5 @@ Imagens Docker Hub
 
 Clonar o repositório com `docker-compose.yml`
 
-git clone https://github.com/danilo083/microservicos-tarefas.git
+git clone https://github.com/danilo083/microservicos.git
 
