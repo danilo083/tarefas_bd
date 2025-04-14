@@ -7,9 +7,9 @@ Este projeto é composto por três microsserviços que funcionam juntos usando D
 - **Banco de Dados**: MongoDB
 
  Repositórios
-- [Frontend - GitHub](https://github.com/seuusuario/tarefas_front)
-- [Backend - GitHub](https://github.com/seuusuario/tarefas_back)
-- [Banco de Dados - GitHub (apenas referência)](https://github.com/seuusuario/tarefas_bd)
+- [Frontend - GitHub](https://github.com/danilo083/tarefas_front)
+- [Backend - GitHub](https://github.com/danilo083/tarefas_back)
+- [Banco de Dados - GitHub (apenas referência)](https://github.com/danilo083/tarefas_bd)
 
 Imagens Docker Hub
 - [Frontend - Docker Hub](https://hub.docker.com/r/danilo083/tarefas_front)
